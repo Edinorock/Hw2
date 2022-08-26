@@ -64,7 +64,7 @@ public class Main {
         System.out.println("Задача 8 часть 2");
         var howManyEmployees1 = workingHours / workingHoursOneEmployee + 94;
         var workingHours1 = howManyEmployees1 * 8;
-        System.out.println("Если в компании работает " + howManyEmployees1 + " человека, то всего " + workingHours1 + " часа работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании трудятся " + howManyEmployees1 + " человека, то всего " + workingHours1 + " часа работы может быть поделено между сотрудниками");
 
 
 
